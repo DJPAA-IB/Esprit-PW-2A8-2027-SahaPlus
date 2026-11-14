@@ -43,11 +43,11 @@ Saha+ is an all-in-one digital health platform that connects health literacy, he
 ```
 
 ## Contributors
-- Ibrahim Kbaier:Body Atlas
-- Rayen Mediouni:map
-- Mohammed Amdouni:ai health assistant
-- Marame Azizi:recording safe space
-- Mohamed Rached Lakhel:blood donations
+- Ibrahim Kbaier: Body Atlas
+- Rayen Mediouni: The Health Map
+- Mohammed Amdouni: AI health assistant
+- Marame Azizi: Recording safe space
+- Mohamed Rached Lakhel: Blood Donations
 
 ## Academic Context
 Developed at **Esprit School of Engineering – Tunisia**
